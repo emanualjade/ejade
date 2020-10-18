@@ -13,5 +13,13 @@
     "emanual jade",
     "emanual",
     "jade"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "emanualjade/ejade",
+  "author": {
+    "name": "Emanual Jade",
+    "email": "emanualjade@gmail.com",
+    "url": "https://cracklehat.com"
+  }
 }
