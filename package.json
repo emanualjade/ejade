@@ -1,0 +1,7 @@
+{
+  "name": "ejade",
+  "version": "1.0.0",
+  "bin": {
+    "ejade": "index.js"
+  }
+}
