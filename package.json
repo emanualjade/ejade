@@ -1,11 +1,12 @@
 {
   "name": "ejade",
   "version": "2.0.2",
-  "description": "Get to know Emanual Jade via `npx ejade`",
+  "description": "Get to know Emanual Jade via `npx ejade`.",
   "bin": {
     "ejade": "index.js"
   },
   "dependencies": {
+    "chalk": "^4.1.0",
     "cli-welcome": "^2.2.2"
   },
   "keywords": [
